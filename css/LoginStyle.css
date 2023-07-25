@@ -1,0 +1,20 @@
+/*id名「LoginTable」を付けた部分（ログインのtable）にCSSを適用する*/
+#LoginTable{
+    float: left; /*フロート：左*/
+}
+
+/*class名「box」を付けた部分にcssを適用する*/
+.box{
+    margin-left: 10px;/*左マージン：10px*/
+    margin-right: 30px;/*右マージン：30px*/
+    margin-bottom: 30px;/*下マージン：30px*/
+    padding: 5px;/*パディング：5px*/
+    border: solid 1px black ;/*枠線：線幅1px、線のスタイルsolid、線の色は黒*/
+}
+
+/*<th>タグにcssを適用する*/
+th{
+    background-color: green;
+    color:white;
+    text-align:center;
+}

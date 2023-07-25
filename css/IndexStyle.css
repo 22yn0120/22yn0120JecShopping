@@ -1,0 +1,10 @@
+/*商品グループのCSS指定*/
+#goodsgroup{
+    float: left; /*フロート:左*/
+    width: 80px; /*幅：80px*/
+}
+
+/*商品一覧のCSS指定*/
+#goodslist{
+    margin-left: 100px; /*左マージン:100px*/
+}
